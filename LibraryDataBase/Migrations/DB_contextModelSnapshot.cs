@@ -48,7 +48,6 @@ namespace LibraryDataBase.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("Price")

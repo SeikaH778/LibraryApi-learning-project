@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGv8D5/YAuk=",
+  "dgSpecHash": "LJFd2YY1x78=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\LibraryApi.csproj",
+  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\LibraryApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SeikaH\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\SeikaH\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.5\\microsoft.data.sqlite.core.9.0.5.nupkg.sha512",

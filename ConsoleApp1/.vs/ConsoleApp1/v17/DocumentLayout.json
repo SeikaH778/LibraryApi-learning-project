@@ -1,28 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\consoleapp1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|solutionrelative:irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\consoleapp1\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|solutionrelative:efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\librarydatabase\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\librarydatabase\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\librarydatabase\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B5979E91-840B-48FE-89AD-09EB3210C70C}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\librarydatabase\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\librarydatabase\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\librarydatabase\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018DA80-66CF-4971-8456-DDE4BA3A677F}|..\\LibraryDataBase\\LibraryDataBase.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\librarydatabase\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\dto\\booksummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\dto\\authorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090EAD78-84F3-47A4-B9E8-8B5DD917DD9D}|..\\LibraryApi\\LibraryApi.csproj|c:\\users\\seikah\\source\\repos\\learningprojest\\libraryapi-learning-rpoject\\libraryapi\\dto\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,92 +63,196 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "..\\LibraryApi\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "..\\LibraryApi\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:21.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "..\\LibraryApi\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "..\\LibraryApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:21.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\LibraryApi\\Program.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi\\Program.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Program.cs",
               "RelativeToolTip": "..\\LibraryApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:18.222Z",
+              "WhenOpened": "2025-06-05T17:01:16.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\IEntity.cs",
-              "RelativeDocumentMoniker": "..\\LibraryDataBase\\IEntity.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\IEntity.cs",
-              "RelativeToolTip": "..\\LibraryDataBase\\IEntity.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:17.49Z",
+              "WhenOpened": "2025-06-05T17:00:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\AuthorResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\DTO\\AuthorResponseDto.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\AuthorResponseDto.cs",
+              "RelativeToolTip": "..\\LibraryApi\\DTO\\AuthorResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:22:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryDataBase\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\Models\\Book.cs",
+              "RelativeToolTip": "..\\LibraryDataBase\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:03:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "..\\LibraryDataBase\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\Models\\Author.cs",
+              "RelativeToolTip": "..\\LibraryDataBase\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:03:12.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "..\\LibraryDataBase\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\Models\\Author.cs",
-              "RelativeToolTip": "..\\LibraryDataBase\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "..\\LibraryApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:16.452Z",
+              "WhenOpened": "2025-06-05T16:01:48.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "..\\LibraryDataBase\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\Models\\Book.cs",
-              "RelativeToolTip": "..\\LibraryDataBase\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "..\\LibraryApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:45:15.602Z",
+              "WhenOpened": "2025-06-05T15:57:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookDto.cs",
+              "RelativeToolTip": "..\\LibraryApi\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:57:13.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T11:48:58.308Z",
+              "Title": "DB_context.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\DB_context.cs",
+              "RelativeDocumentMoniker": "..\\LibraryDataBase\\DB_context.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\DB_context.cs",
+              "RelativeToolTip": "..\\LibraryDataBase\\DB_context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:22:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\IEntity.cs",
+              "RelativeDocumentMoniker": "..\\LibraryDataBase\\IEntity.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\IEntity.cs",
+              "RelativeToolTip": "..\\LibraryDataBase\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:50:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\EFRepository.cs",
+              "RelativeDocumentMoniker": "EFRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\EFRepository.cs",
+              "RelativeToolTip": "EFRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:47:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\IRepository.cs",
+              "RelativeDocumentMoniker": "IRepository.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\IRepository.cs",
+              "RelativeToolTip": "IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:28:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\DTO\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "..\\LibraryApi\\DTO\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:58:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookSummaryDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\DTO\\BookSummaryDto.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookSummaryDto.cs",
+              "RelativeToolTip": "..\\LibraryApi\\DTO\\BookSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:23:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApi\\DTO\\BookResponseDto.cs",
+              "ToolTip": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryApi\\DTO\\BookResponseDto.cs",
+              "RelativeToolTip": "..\\LibraryApi\\DTO\\BookResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:23:20.531Z",
               "EditorCaption": ""
             }
           ]

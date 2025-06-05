@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pvtYdbT7qR0=",
+  "dgSpecHash": "fIpqBiIATbM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SeikaH\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.5\\microsoft.data.sqlite.core.9.0.5.nupkg.sha512",
     "C:\\Users\\SeikaH\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",

@@ -3131,11 +3131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\LibraryDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\LibraryDataBase.csproj",
       "projectName": "LibraryDataBase",
-      "projectPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\LibraryDataBase.csproj",
+      "projectPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\LibraryDataBase.csproj",
       "packagesPath": "C:\\Users\\SeikaH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\obj\\",
+      "outputPath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

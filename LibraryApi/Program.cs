@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<DB_context>(options =>
-    options.UseSqlite("Data Source=C:\\Users\\SeikaH\\Desktop\\LibraryDB.db"));
+    options.UseSqlite(""));
 builder.Services.AddScoped(typeof(IRepository<>), typeof(EFRepository<>));
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

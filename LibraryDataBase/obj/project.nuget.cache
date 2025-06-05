@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8MPsofjVgY=",
+  "dgSpecHash": "dcdU29oTdtc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryDataBase\\LibraryDataBase.csproj",
+  "projectFilePath": "C:\\Users\\SeikaH\\source\\repos\\learningProjest\\LibraryApi-learning-rpoject\\LibraryDataBase\\LibraryDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SeikaH\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SeikaH\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

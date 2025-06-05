@@ -1,7 +1,6 @@
 ﻿using LibraryDataBase.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
-using System;
 namespace LibraryDataBase
 {
     public class DB_context: DbContext
@@ -9,7 +8,7 @@ namespace LibraryDataBase
         DbSet<Book> Books { get; set; }
         DbSet<Author> Authors { get; set; }
         public DB_context() { }
-        readonly string ConnectionString = "Data Source=C:\\Users\\SeikaH\\Desktop\\LibraryDB.db";
+        readonly string ConnectionString = "";
         public DB_context(DbContextOptions<DB_context> options)
        : base(options)
         {
@@ -24,7 +23,11 @@ namespace LibraryDataBase
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Book>().HasOne(b=>b.Author).WithMany(a=>a.Books).HasForeignKey(b=>b.AuthorId);
+            modelBuilder.Entity<Book>()
+        .HasOne(b => b.Author)
+        .WithMany(a => a.Books)
+        .HasForeignKey(b => b.AuthorId)
+        .OnDelete(DeleteBehavior.Cascade);
             base.OnModelCreating(modelBuilder);
         }
     }

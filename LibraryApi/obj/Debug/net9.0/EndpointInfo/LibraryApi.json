@@ -18,7 +18,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Author"
+                    "$ref": "#/components/schemas/AuthorResponseDto"
                   }
                 }
               },
@@ -26,7 +26,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Author"
+                    "$ref": "#/components/schemas/AuthorResponseDto"
                   }
                 }
               },
@@ -34,7 +34,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Author"
+                    "$ref": "#/components/schemas/AuthorResponseDto"
                   }
                 }
               }
@@ -50,17 +50,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Author"
+                "$ref": "#/components/schemas/AuthorDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Author"
+                "$ref": "#/components/schemas/AuthorDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Author"
+                "$ref": "#/components/schemas/AuthorDTO"
               }
             }
           }
@@ -148,6 +148,46 @@
             "description": "OK"
           }
         }
+      },
+      "put": {
+        "tags": [
+          "Authors"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthorDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthorDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthorDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/Books": {
@@ -195,17 +235,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/BookDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/BookDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Book"
+                "$ref": "#/components/schemas/BookDto"
               }
             }
           }
@@ -293,6 +333,46 @@
             "description": "OK"
           }
         }
+      },
+      "put": {
+        "tags": [
+          "Books"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },
@@ -323,6 +403,56 @@
         },
         "additionalProperties": false
       },
+      "AuthorDTO": {
+        "type": "object",
+        "properties": {
+          "authorFirstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorLastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "books": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AuthorResponseDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "books": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/BookSummaryDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Book": {
         "type": "object",
         "properties": {
@@ -338,9 +468,6 @@
             "type": "string",
             "nullable": true
           },
-          "author": {
-            "$ref": "#/components/schemas/Author"
-          },
           "price": {
             "type": "number",
             "format": "double"
@@ -351,6 +478,38 @@
           "authorId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "BookDto": {
+        "required": [
+          "authorId",
+          "title"
+        ],
+        "type": "object",
+        "properties": {
+          "title": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "authorId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "BookSummaryDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
